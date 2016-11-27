@@ -1,5 +1,7 @@
 # Rundeck Hue Notification Plugin
 
+[![Build Status](https://travis-ci.org/grafjo/rundeck-hue-notification-plugin.svg?branch=master)](https://travis-ci.org/grafjo/rundeck-hue-notification-plugin)
+
 This is a [notification plugin](http://rundeck.org/docs/developer/notification-plugin.html)
 for [Rundeck](http://rundeck.org/) to trigger your [Philips Hue](http://meethue.com/) lights.
 
